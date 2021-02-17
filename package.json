@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "ssss-example-js",
+  "version": "1.0.0",
+  "description": "Shamir's secret sharing scheme in JavaScript,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/ssss-example-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/ssss-example-js/issues"
+  },
+  "homepage": "https://github.com/watilde/ssss-example-js#readme"
+}
