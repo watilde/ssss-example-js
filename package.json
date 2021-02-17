@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/watilde/ssss-example-js/issues"
   },
-  "homepage": "https://github.com/watilde/ssss-example-js#readme"
+  "homepage": "https://github.com/watilde/ssss-example-js#readme",
+  "dependencies": {
+    "secrets.js-grempe": "^2.0.0"
+  }
 }
